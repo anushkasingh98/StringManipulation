@@ -38,8 +38,7 @@
         <group id="StringManipulation.Group.Main" text="String Manipulation"
                description="Group of String manipulation"
                popup="true"
-               icon="/icons/edit.svg"
-        >
+               icon="/icons/edit.svg">
             <add-to-group group-id="EditMenu" anchor="last"/>
 
             <action id="osmedile.intellij.stringmanip.RepeatAction" class="osmedile.intellij.stringmanip.RepeatAction"
